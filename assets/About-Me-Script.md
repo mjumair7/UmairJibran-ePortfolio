@@ -1,24 +1,32 @@
-# About Me — short narration script
+# About Me — seven-slide narration script
 
-About 2 minutes at a natural pace. Read one paragraph per slide and advance at each heading.
+About 3–3½ minutes at a natural pace, including short pauses. Read each paragraph with its matching slide, then advance. The narration is also in the PowerPoint speaker notes.
 
-## Slide 1 — About me
+## Slide 1 — Engineering for the real world
 
-Hi, I’m Mohammed Umair Jibran, a Computer Engineering student at York University. What I love most about my program is being able to design and build things while understanding how they work. I especially enjoy connecting hardware and software, and seeing an idea become a working system.
+Hi, I’m Mohammed Umair Jibran, a Computer Engineering student at York University. My experience includes co-op work at U+ Education, a software development internship, and projects that connect hardware and software. This portfolio shows what I’ve learned and where I want to go next.
 
-## Slide 2 — My most rewarding co-op learning
+## Slide 2 — Why Computer Engineering
 
-My most rewarding co-op experience has been at U+ Education, where I helped lead an eleven-member technical team. I developed and reviewed features for websites and internal applications, turned stakeholder requests into Jira tasks, and tested releases. Helping volunteers move past a blocker and deliver something useful showed me how much engineering depends on clear communication and shared ownership.
+What I love most about Computer Engineering is being able to design and create while understanding how things work. I enjoy following an idea from a circuit, through firmware, to a useful application. Building and testing my own projects helps me connect classroom concepts to real engineering problems.
 
-## Slide 3 — Skills I have developed
+## Slide 3 — My learning at U+ Education
 
-Through this experience, I’ve strengthened my skills in requirements, technical review, quality assurance and team coordination. I’ve learned to ask clearer questions before building, give feedback that someone can act on, and check whether the result actually meets the user’s needs.
+My most rewarding co-op learning has come from U+ Education, where I completed an eight-month co-op followed by contract roles. As Technology Manager, I managed an eleven-member cross-functional team and supervised more than two hundred volunteers. I developed and reviewed application features, translated requests into Jira tasks, and tested releases. Helping the team deliver useful tools strengthened my skills in requirements, technical review and coordination, and taught me the value of clear feedback.
 
-## Slide 4 — Putting engineering into practice
+## Slide 4 — A tool adopted by a business
 
-My projects have also developed my technical skills. For example, I built a CAN-FD test bench with two STM32 controllers and a Python tool to test dropped or delayed messages. That taught me to look beyond normal operation and check how a system handles failure.
+During my Riipen internship with Islamic Books and Souvenirs, I built a Node.js packing-rule engine that combined order data with product dimensions to produce packing instructions. The business adopted the tool, and it contributed to an approximately fifteen percent combined improvement in shipping time and packaging costs. I learned how data validation and clear rules can improve an everyday workflow.
 
-## Slide 5 — My career goal
+## Slide 5 — Testing embedded systems
 
-My goal is to become an embedded systems engineer, designing and testing the hardware and firmware behind connected devices. Over time, I’d like to lead embedded product development projects while staying involved in hands-on engineering. Thank you for exploring my portfolio.
+My CAN-FD test bench uses two STM32 controllers to send sensor data and control a fan. I built a Python tool to test dropped or delayed messages and check recovery. My RF Asset Finder uses Arduino and a custom radio protocol to identify equipment and handle missed responses. These projects strengthened my hardware–software debugging skills and taught me to test failure cases.
+
+## Slide 6 — Security and payment workflows
+
+In SentriCode, I built a security workbench that brings different scanner findings into one review flow, with safe input handling and secret redaction. I verified the release with one hundred and forty-two automated tests. For York’s Muslim Student Association, I also developed a Stripe donation workflow and trained volunteers to use it. That system supported more than ten thousand dollars in fundraising at live events.
+
+## Slide 7 — My next step in engineering
+
+My goal is to become an embedded systems engineer, designing firmware and validating how hardware and software work together. Over time, I’d like to lead embedded product development projects while staying involved in hands-on engineering. My experience has shown me that I enjoy both building a solution and helping a team deliver it. Thank you for exploring my portfolio.
 

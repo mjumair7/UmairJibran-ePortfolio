@@ -21,4 +21,4 @@ Plain HTML, CSS and JavaScript; no build step. Motion respects the system reduce
 
 ## About Me recording
 
-The slideshow is ready; the spoken video still needs recording. Read the script in `assets/About-Me-Script.md` while recording the PowerPoint slides. Export the recording as `assets/about-me.mp4`, add a video player inside `#recorded-video` in `index.html`, and remove the coming-soon message.
+The recorded About Me video is embedded in the portfolio and available at `assets/about-me.mp4`. The seven-slide presentation and narration script remain available as supplementary downloads.

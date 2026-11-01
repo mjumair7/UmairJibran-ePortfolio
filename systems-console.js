@@ -86,10 +86,10 @@ if ("IntersectionObserver" in window && !reduceMotion.matches) {
 
 const routeCopy = document.querySelector("[data-route-copy]");
 const routeText = {
-  "01": "Start with the actual input: a signal, a user need, or the thing that keeps going wrong.",
-  "02": "Build a small real slice so the constraint shows up in working code or hardware.",
-  "03": "Try the missing frame, bad packet, awkward user path, and second run.",
-  "04": "Leave an explanation the next person can follow without standing beside me."
+  "01": "I start by checking what the input should be and what the output needs to do.",
+  "02": "I get one path working first, such as a sensor reading reaching the controller.",
+  "03": "Then I test missing messages, invalid data and recovery after a fault.",
+  "04": "I document the setup and test steps so someone else can run it."
 };
 document.querySelectorAll("[data-route]").forEach(button => {
   button.addEventListener("click", () => {
@@ -199,5 +199,5 @@ if ("IntersectionObserver" in window) {
       else link.removeAttribute("aria-current");
     });
   }, { rootMargin: "-18% 0px -60% 0px", threshold: 0 });
-  document.querySelectorAll("#work, #lab, #current, #training, #beyond, #contact").forEach(section => navObserver.observe(section));
+  document.querySelectorAll("#video, #about, #work, #current, #resume, #contact").forEach(section => navObserver.observe(section));
 }
